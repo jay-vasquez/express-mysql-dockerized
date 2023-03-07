@@ -1,0 +1,258 @@
+{
+    "treasures": [
+        {
+            "id": 100,
+            "latitude": 14.5437648051331,
+            "longtitude": 121.019911678311,
+            "Name": "T1"
+        },
+        {
+            "id": 101,
+            "latitude": 14.5532076554883,
+            "longtitude": 121.055774532421,
+            "Name": "T2"
+        },
+        {
+            "id": 102,
+            "latitude": 14.5446435656183,
+            "longtitude": 121.020365629871,
+            "Name": "T3"
+        },
+        {
+            "id": 103,
+            "latitude": 14.5872615919051,
+            "longtitude": 120.979504794655,
+            "Name": "T4"
+        },
+        {
+            "id": 104,
+            "latitude": 14.5732032723718,
+            "longtitude": 121.023090376156,
+            "Name": "T5"
+        },
+        {
+            "id": 105,
+            "latitude": 14.5231131289849,
+            "longtitude": 121.019457319516,
+            "Name": "T6"
+        },
+        {
+            "id": 106,
+            "latitude": 14.6024229153284,
+            "longtitude": 121.011513378939,
+            "Name": "T7"
+        },
+        {
+            "id": 107,
+            "latitude": 14.6085746293116,
+            "longtitude": 121.018551395794,
+            "Name": "T8"
+        },
+        {
+            "id": 108,
+            "latitude": 14.4911143426092,
+            "longtitude": 121.043748206197,
+            "Name": "T9"
+        },
+        {
+            "id": 109,
+            "latitude": 14.5445595272478,
+            "longtitude": 121.106088282234,
+            "Name": "T10"
+        },
+        {
+            "id": 110,
+            "latitude": 14.5879814117365,
+            "longtitude": 121.058208029763,
+            "Name": "T11"
+        },
+        {
+            "id": 111,
+            "latitude": 14.5488649285797,
+            "longtitude": 121.03363929755,
+            "Name": "T12"
+        },
+        {
+            "id": 112,
+            "latitude": 14.5371505894201,
+            "longtitude": 120.990430237915,
+            "Name": "T13"
+        },
+        {
+            "id": 113,
+            "latitude": 14.5257966600328,
+            "longtitude": 121.020868844103,
+            "Name": "T14"
+        },
+        {
+            "id": 114,
+            "latitude": 14.5170998780454,
+            "longtitude": 120.981002106201,
+            "Name": "T15"
+        },
+        {
+            "id": 115,
+            "latitude": 14.502006871058,
+            "longtitude": 120.991618127534,
+            "Name": "T16"
+        },
+        {
+            "id": 116,
+            "latitude": 14.521124409049,
+            "longtitude": 121.042771368704,
+            "Name": "T17"
+        },
+        {
+            "id": 117,
+            "latitude": 14.4772076562187,
+            "longtitude": 120.986792724064,
+            "Name": "T18"
+        }
+    ],
+    "users": [
+        {
+            "id": 3000,
+            "name": "U1",
+            "age": 21,
+            "password": 123123,
+            "email": "u1@kitra.abc"
+        },
+        {
+            "id": 3001,
+            "name": "U2",
+            "age": 51,
+            "password": 234234,
+            "email": "u2@kitra.abc"
+        },
+        {
+            "id": 3002,
+            "name": "U3",
+            "age": 31,
+            "password": 345345,
+            "email": "u3@kitra.abc"
+        },
+        {
+            "id": 3003,
+            "name": "U4",
+            "age": 18,
+            "password": 456456,
+            "email": "u4@kitra.abc"
+        },
+        {
+            "id": 3004,
+            "name": "U5",
+            "age": 21,
+            "password": 567567,
+            "email": "u5@kitra.abc"
+        },
+        {
+            "id": 3005,
+            "name": "U6",
+            "age": 35,
+            "password": 678678,
+            "email": "u6@kitra.abc"
+        }
+    ],
+    "money_values": [
+        {
+            "treasure_id": 100,
+            "amt": 15
+        },
+        {
+            "treasure_id": 101,
+            "amt": 10
+        },
+        {
+            "treasure_id": 102,
+            "amt": 15
+        },
+        {
+            "treasure_id": 103,
+            "amt": 15
+        },
+        {
+            "treasure_id": 104,
+            "amt": 10
+        },
+        {
+            "treasure_id": 105,
+            "amt": 15
+        },
+        {
+            "treasure_id": 106,
+            "amt": 15
+        },
+        {
+            "treasure_id": 107,
+            "amt": 10
+        },
+        {
+            "treasure_id": 108,
+            "amt": 15
+        },
+        {
+            "treasure_id": 109,
+            "amt": 15
+        },
+        {
+            "treasure_id": 110,
+            "amt": 10
+        },
+        {
+            "treasure_id": 111,
+            "amt": 15
+        },
+        {
+            "treasure_id": 112,
+            "amt": 15
+        },
+        {
+            "treasure_id": 113,
+            "amt": 10
+        },
+        {
+            "treasure_id": 114,
+            "amt": 15
+        },
+        {
+            "treasure_id": 115,
+            "amt": 15
+        },
+        {
+            "treasure_id": 116,
+            "amt": 10
+        },
+        {
+            "treasure_id": 117,
+            "amt": 15
+        },
+        {
+            "treasure_id": 100,
+            "amt": 20
+        },
+        {
+            "treasure_id": 101,
+            "amt": 25
+        },
+        {
+            "treasure_id": 102,
+            "amt": 20
+        },
+        {
+            "treasure_id": 103,
+            "amt": 25
+        },
+        {
+            "treasure_id": 107,
+            "amt": 30
+        },
+        {
+            "treasure_id": 108,
+            "amt": 30
+        },
+        {
+            "treasure_id": 109,
+            "amt": 30
+        }
+    ]
+}
